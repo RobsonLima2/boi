@@ -28,3 +28,22 @@ ul{
     align-items: center;
     list-style: none;
 }
+
+main{
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 30px;
+    background-color: brown;
+
+}
+
+main h2{
+text-align: center;
+color: white;    
+}
+
+main p{
+    font-size: 30px; /*igual propaganda enganosa */
+    text-align: center;
+    color: goldenrod;
+}
